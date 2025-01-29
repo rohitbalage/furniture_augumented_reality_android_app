@@ -1,0 +1,9 @@
+{
+  "source": "models/Chair.obj",
+  "materials": [
+    {
+      "name": "default",
+      "source": "sceneform_sdk/default_materials/obj_material.sfm"
+    }
+  ]
+}
